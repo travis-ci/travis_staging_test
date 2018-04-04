@@ -4,4 +4,4 @@ install: skip
 script: skip
 
 addons:
-  chrome: stable
+  chrome: invalid
