@@ -1,7 +1,5 @@
 language: generic
-dist: doesnotexist
-sudo: required
 install: true
-script: true
+script: echo yeah
 notifications:
     email: never
